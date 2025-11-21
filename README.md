@@ -68,3 +68,7 @@ $ npm install
 Now you're ready to go! The next step is easy to say, but harder to do: make an awesome WordPress theme. :)
 
 Good luck!
+
+## Additional documentation
+
+- [Deploying a Next.js + Sanity project to Vercel](docs/vercel-sanity-deploy.md)
